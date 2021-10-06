@@ -1,7 +1,7 @@
-Turtle gen
+# Turtle gen
 This is a simple script to generate turtle code using an image
 
-To try it
+## To try it
 
 ```
 pip install -r requirements.txt
